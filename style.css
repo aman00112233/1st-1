@@ -3,7 +3,7 @@
     margin: 0px;
 }
 .first-banner{
- background-image: url(images/banner/banner21.png);   
+ background-image: url(banner21.png);   
  
 width: auto;
  /* width: 1953px; */
@@ -115,7 +115,7 @@ font-size: 25px;
 
      .last-banner{
      
-      background-image: url('images/gradient3.png'), url('images/watch.png');
+      background-image: url('gradient3.png'), url('watch.png');
   background-repeat: no-repeat;
   background-position: top left, top left;
     border-radius: 5px;
